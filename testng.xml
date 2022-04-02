@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/1/IdeaProjects/mlxls_web"><classes>
+        <class name="com.melot.testng.testcase.login.LoginTest"><methods><include name="testlogin"/></methods></class>
+        <class name="com.melot.testng.testcase.login.SuperLoginTest"><methods><include name="superLogin"/></methods></class></classes>
+    </test></suite>
